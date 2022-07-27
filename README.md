@@ -1,4 +1,4 @@
-# Mirage F1 Resources
+# Mirage F1 Missions
 **Download single missions:**
 1. Click Missions
 2. Click the mission you want
