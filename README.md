@@ -1,9 +1,9 @@
 # Mirage F1 Missions
 **Download single missions:**
-1. Click Missions
-2. Click the mission you want
-3. Click Download
+1. Left click Missions Folder
+2. Left click the mission you want
+3. Left click Download
 
 **Download everything:**
-1. Click "Code" (green button)
-2. Click "Download Zip"
+1. Left click "Code" (green button)
+2. Left click "Download Zip"
